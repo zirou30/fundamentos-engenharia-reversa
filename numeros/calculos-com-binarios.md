@@ -210,7 +210,7 @@ No exemplo acima deslocamos 1 _bit_ do número 7 \(0b111\) para a esquerda três
 56
 ```
 
-De forma análoga, o deslocamento para a **direita** \(_shift right_\), ou simplesmente SHR, consiste em deslocar todos os _bits_de um número para a direita e completar a posição criada à esquerda com zero. Tomando o mesmo 7 \(0b111\):
+De forma análoga, o deslocamento para a **direita** \(_shift right_\), ou simplesmente SHR, consiste em deslocar todos os _bits_ de um número para a direita e completar a posição criada à esquerda com zero. Tomando o mesmo 7 \(0b111\):
 
 ```text
 >>> 0b111 >> 1
